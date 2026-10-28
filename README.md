@@ -17,6 +17,7 @@ I came from analytics and built AI agents for customer support automation at Mer
 
 - 🔁 **[Loopers](https://loopersarg.com)** — AI & automation consultancy for growing businesses
 - 🤖 **[whatsapp-agent-starter](https://github.com/PedroJDre/whatsapp-agent-starter)** — Open-source WhatsApp assistant built with LangChain that won't make up prices: tools, guardrails in code and human handoff
+- 📉 **[ecommerce-price-tracker-starter](https://github.com/PedroJDre/ecommerce-price-tracker-starter)** — Track prices across stores, Shopify and Mercado Libre, with alerts and a [live dashboard](https://pedrojdre.github.io/ecommerce-price-tracker-starter/). Runs free on GitHub Actions
 - 💬 **WhatsApp bots** — Inbound assistants and automated payment reminders for car dealerships
 - 📊 **Ops dashboards** — Marketing, sales and support dashboards fed from live data sources
 - 🛒 **[vital-boost-website-shopify](https://github.com/PedroJDre/vital-boost-website-shopify)** — Custom Shopify theme for the Vital Boost store
