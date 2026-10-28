@@ -16,6 +16,7 @@ I came from analytics and built AI agents for customer support automation at Mer
 ## Current Projects
 
 - 🔁 **[Loopers](https://loopersarg.com)** — AI & automation consultancy for growing businesses
+- 🤖 **[whatsapp-agent-starter](https://github.com/PedroJDre/whatsapp-agent-starter)** — Open-source WhatsApp assistant built with LangChain that won't make up prices: tools, guardrails in code and human handoff
 - 💬 **WhatsApp bots** — Inbound assistants and automated payment reminders for car dealerships
 - 📊 **Ops dashboards** — Marketing, sales and support dashboards fed from live data sources
 - 🛒 **[vital-boost-website-shopify](https://github.com/PedroJDre/vital-boost-website-shopify)** — Custom Shopify theme for the Vital Boost store
