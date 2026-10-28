@@ -4,6 +4,11 @@
 
 > Helping small businesses scale with AI agents and automation.
 
+<p>
+  <a href="https://loopersarg.com/"><img src="https://img.shields.io/badge/Loopers-loopersarg.com-2B6CD9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pedro-dreyer/"><img src="https://img.shields.io/badge/LinkedIn-pedro--dreyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
 I came from analytics and built AI agents for customer support automation at Mercado Pago. Now, at [Loopers](https://loopersarg.com), I help small and mid-sized businesses find the processes worth automating and build the agents, bots and dashboards that run them.
 
 ---
