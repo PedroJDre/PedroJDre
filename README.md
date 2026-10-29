@@ -9,12 +9,13 @@
   <a href="https://www.linkedin.com/in/pedro-dreyer/"><img src="https://img.shields.io/badge/LinkedIn-pedro--dreyer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-I came from analytics and built AI agents for customer support automation at Mercado Pago. Now, at [Loopers](https://loopersarg.com), I help small and mid-sized businesses find the processes worth automating and build the agents, bots and dashboards that run them.
+I came from analytics and worked as a **CX Engineer at Mercado Pago**, building AI agents that automated customer support at scale. Now, at [Loopers](https://loopersarg.com), I help small and mid-sized businesses find the processes worth automating and build the agents, bots and dashboards that run them.
 
 ---
 
 ## Current Projects
 
+- 💬 **[Customatic](https://github.com/PedroJDre/customatic)** — Open-source in-app feedback widget and inbox: one script tag, problems, ideas and comments with page, device and screenshot, email replies, analytics and a public roadmap. It grew out of my years as a CX Engineer at Mercado Pago, where the hardest part was hearing customers in context. [Live demo](https://customatic.vercel.app)
 - 🔁 **[Loopers](https://loopersarg.com)** — AI & automation consultancy for growing businesses
 - 🤖 **[whatsapp-agent-starter](https://github.com/PedroJDre/whatsapp-agent-starter)** — Open-source WhatsApp assistant built with LangChain that won't make up prices: tools, guardrails in code and human handoff
 - 📉 **[ecommerce-price-tracker-starter](https://github.com/PedroJDre/ecommerce-price-tracker-starter)** — Track prices across stores, Shopify and Mercado Libre, with alerts and a [live dashboard](https://pedrojdre.github.io/ecommerce-price-tracker-starter/). Runs free on GitHub Actions
